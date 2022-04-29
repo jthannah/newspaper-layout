@@ -55,6 +55,10 @@ nav {
     float: left;
     padding: 0.5rem;
     max-width: 100%;
+
+    &.right {
+      float: right;
+    }
   }
 
   .title {
